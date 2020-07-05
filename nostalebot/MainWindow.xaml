@@ -1,0 +1,15 @@
+﻿<Window x:Name="NostaleBot1" x:Class="nostalebot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:nostalebot"
+        mc:Ignorable="d"
+        Title="Glacabot" Height="171.6" Width="174.4" ResizeMode="NoResize" Icon="katastrofawkrainiewiecznegozimnailodu.png">
+    <Grid x:Name="NostaleBot">
+        <Button x:Name="ScanButton" Content="Turn on" HorizontalAlignment="Left" Height="28" Margin="30,84,0,0" VerticalAlignment="Top" Width="102" Click="ClickScanButton"/>
+        <TextBlock HorizontalAlignment="Left" Height="19" Margin="30,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="106"><Run Text="Interval (in m"/><Run Text="inutes)"/></TextBlock>
+        <TextBox x:Name="InputBox" HorizontalAlignment="Left" Height="22" Margin="30,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="106" Text="10"/>
+
+    </Grid>
+</Window>

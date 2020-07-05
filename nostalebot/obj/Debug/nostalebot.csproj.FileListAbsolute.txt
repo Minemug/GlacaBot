@@ -1,0 +1,15 @@
+C:\Users\minem\Desktop\nostalebot\nostalebot\bin\Debug\nostalebot.exe.config
+C:\Users\minem\Desktop\nostalebot\nostalebot\bin\Debug\nostalebot.exe
+C:\Users\minem\Desktop\nostalebot\nostalebot\bin\Debug\nostalebot.pdb
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.csprojAssemblyReference.cache
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\MainWindow.g.cs
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\App.g.cs
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot_MarkupCompile.cache
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot_MarkupCompile.lref
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\MainWindow.baml
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.g.resources
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.Properties.Resources.resources
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.csproj.GenerateResource.cache
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.csproj.CoreCompileInputs.cache
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.exe
+C:\Users\minem\Desktop\nostalebot\nostalebot\obj\Debug\nostalebot.pdb
